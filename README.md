@@ -1,4 +1,6 @@
-### 👋 Hi, I’m Januacele Vieira, but you can call me Janu
+### 👋 Hi 
+
+#### I’m Januacele Vieira, but you can call me Janu
 
 #### I am a food engineer and passionate about technology
 - You can find my academic works here: http://lattes.cnpq.br/9593443709513446
