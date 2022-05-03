@@ -3,14 +3,15 @@
 #### I’m Januacele Vieira, but you can call me Janu
 
 #### I am a food engineer and passionate about technology
-- You can find my academic works here: http://lattes.cnpq.br/9593443709513446
-- You can find my work life here: https://www.linkedin.com/in/januacelevieira
+:books: You can find my academic works here: http://lattes.cnpq.br/9593443709513446
+<br>:briefcase: You can find my work life here: https://www.linkedin.com/in/januacelevieira
 
 
 ##### Fun facts about me:
-- I play ukulele
-- I love camping
-- I have a 4 years old nephew
+:notes: I play ukulele
+<br>:camping: I love camping 
+<br>:soccer:  I love soccer (Marta's Fan)
+<br>:child: I have a 4 years old nephew
 
 #### I’m currently studying fullstack web development at Driven Education
 ##### Hard skills developed in the course until now:
