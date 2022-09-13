@@ -11,7 +11,7 @@
 :notes: I play ukulele
 <br>:camping: I love camping 
 <br>:soccer:  I love soccer (Marta's Fan)
-<br>:child: I have a 4 years old nephew
+<br>:child: I have a 5 years old nephew
 
 #### I’m currently studying fullstack web development at Driven Education
 ##### Hard skills developed in the course until now:
