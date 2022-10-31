@@ -1,27 +1,22 @@
-### 👋 Olá 
+## 👋 Olá 
 
-#### Eu sou a Januacele Vieira, mas pode me chamar de Janu
+### Eu sou a Januacele Vieira, mas pode me chamar de Janu
 
-##### Sou desenvolvedora web full stack e também engenheira de alimentos. Meu interesse por programação começou na universidade ao ter o primeiro contato com linguagens como C++ e Java. Foram disciplinas muito desafiadoras para mim, e como gosto de desafios, fui em busca de conhecer mais sobre esse mundo da resolução de problemas e bugs constantes.
+#### Sou desenvolvedora web full stack e também engenheira de alimentos. Meu interesse por programação começou na universidade ao ter o primeiro contato com linguagens como C++ e Java. Foram disciplinas muito desafiadoras para mim, e como gosto de desafios, fui em busca de conhecer mais sobre esse mundo da resolução de problemas e bugs constantes.
 
-#### Fatos sobre mim:
+### Fatos sobre mim:
 :notes: Toco ukulele
 <br>:camping: Amo acampar
 <br>:soccer: Amo futebol (Marta's Fan)
 <br>:child: Tenho um sobrinho de 5 anos
 
-#### Entre em contato comigo:
+### Entre em contato comigo:
 <div align="left">
   <a href="https://www.linkedin.com/in/januacelev/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
   </a>
 
-   <a href="mailto:januacelevieira7@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
-  </a>
-</div>
-
-#### Ferramentas que utilizo
+### Ferramentas que utilizo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
@@ -49,7 +44,7 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
 
-#### Interessada em aprender mais:
+### Interessada em aprender mais:
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
 ![Amazon AWS](https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
 
