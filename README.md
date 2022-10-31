@@ -2,15 +2,24 @@
 
 #### Eu sou a Januacele Vieira, mas pode me chamar de Janu
 
-#### Sou engenheira de alimentos e também desenvolvedora web full stack
-:books: Você pode encontrar informações acadêmicas aqui: http://lattes.cnpq.br/9593443709513446
-<br>:briefcase: Você pode encontrar informações profissionais aqui: https://www.linkedin.com/in/januacelevieira
+##### Sou desenvolvedora web full stack e também engenheira de alimentos. Meu interesse por programação começou na universidade ao ter o primeiro contato com linguagens como C++ e Java. Foram disciplinas muito desafiadoras para mim, e como gosto de desafios, fui em busca de conhecer mais sobre esse mundo da resolução de problemas e bugs constantes.
 
-##### Fatos sobre mim:
+#### Fatos sobre mim:
 :notes: Toco ukulele
 <br>:camping: Amo acampar
 <br>:soccer: Amo futebol (Marta's Fan)
 <br>:child: Tenho um sobrinho de 5 anos
+
+#### Entre em contato comigo:
+<div align="left">
+  <a href="https://www.linkedin.com/in/januacelev/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="LinkedIn" />
+  </a>
+
+   <a href="mailto:januacelevieira7@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="gmail" />
+  </a>
+</div>
 
 #### Ferramentas que utilizo
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
